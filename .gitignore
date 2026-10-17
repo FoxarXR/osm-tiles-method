@@ -1,0 +1,4 @@
+__pycache__/
+*.pmtiles
+work/
+tilesets/
